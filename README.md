@@ -1,7 +1,7 @@
 # Stage S7 — LISA, Université Libre de Bruxelles
 
 Stage de 4 mois réalisé au Laboratory of Image Synthesis and Analysis (ULB, Bruxelles)
-de septembre à décembre 2025, dans le cadre de ma 3ème année à l'ESEO Angers.
+de septembre à décembre 2025, dans le cadre de ma formation ingénieur à l'ESEO Angers.
 
 ## Le contexte
 
